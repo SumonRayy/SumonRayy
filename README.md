@@ -72,7 +72,8 @@ Maybe some will be useful or interesting to you. If you liked any of them - dont
 <br />
 
 ## ⚡ Github Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumonRayy&show_icons=true&theme=tokyonight)
+![SumonRayy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumonRayy&show_icons=true&theme=tokyonight)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumonRayy&show_icons=true&theme=tokyonight)](https://github.com/SumonRayy/SumonRayy)
 
 
