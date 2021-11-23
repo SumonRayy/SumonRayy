@@ -34,7 +34,6 @@ Maybe some will be useful or interesting to you. If you liked any of them - dont
 - [<img align="left" alt="mongodb" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
 - [<img align="left" alt="mysql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
 - [<img align="left" alt="postgresql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
-- [<img align="left" alt="mariadb" width="36px" src="https://avatars0.githubusercontent.com/u/4739304?s=200&v=4" />](https://mariadb.org/) 
 - [<img align="left" alt="sqlite" width="36px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />](https://www.sqlite.org/index.html)
 <br />
 
