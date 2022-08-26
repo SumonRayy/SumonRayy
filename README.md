@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
+## Hi 👋, I'm Sumon Roy
 
-<p>Welcome to my page! I'm Sumon - a software deveoper. Here I tried to collect the best of my works.
-Maybe some will be useful or interesting to you. If you liked any of them - dont forget star it <br/>
+<p>A passionate full stack, web2/web3 developer and AI/ML learner, Here at GitHub I trying to make collection of some of the best of my project works. Check them out some maybe useful or interesting to you. If you liked any of them - dont forget star it <br/>
 ✨ Have a nice day 👀</p>
 
 ### Things i code with:
