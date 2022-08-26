@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Sumon Roy
 
-<p>A passionate full stack, web2/web3 developer and AI/ML learner, Here at GitHub I trying to make collection of some of the best of my project works. Check them out some maybe useful or interesting to you. If you liked any of them - dont forget star it <br/>
+<p>A passionate full stack, web2/web3 developer and AI/ML enthusiast, Here at GitHub I am trying to make a collection for some of the best of my open-source project works . Check them out some maybe useful or interesting to you. If you liked any of them - dont forget star it <br/>
 ✨ Have a nice day 👀</p>
 
 ### Things i code with:
