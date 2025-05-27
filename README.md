@@ -21,7 +21,7 @@
     </text>
   </svg>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Scalable+Distributed+Systems;Microservices+%26+Kubernetes+on+AWS;AI+%26+ML;XR+Experiences;Cloud+Native+Architectures;Game+Dev" alt="Typing animation of rotating taglines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Scalable+Distributed+Systems;Microservices+%26+Kubernetes;AI+%26+ML+%26+Engineering;XR+Experiences;Cloud+Native+Architectures;Game+Dev" alt="Typing animation of rotating taglines" />
 </div>
 
 ---
