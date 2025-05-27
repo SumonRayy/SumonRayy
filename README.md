@@ -59,7 +59,7 @@ Results-driven Software Engineer & Full-Stack Developer skilled in Go, Java, Jav
 | Project                          | Tech Stack                                           | Highlights                                                           |
 |----------------------------------|------------------------------------------------------|----------------------------------------------------------------------|
 | **NPS 2.0**                      | Go, NestJS, Kubernetes, IBM DB2, Kafka               | Scalable National Pension System microservices with real-time streaming |
-| **Qurate (Protean)**             | GoFiber, YugabyteDB, Kafka, RabbitMQ                 | Orchestration SaaS for IDP & payment workflows, built observability with OpenTelemetry |
+| **Qurate**                       | GoFiber, YugabyteDB, Kafka, RabbitMQ                 | Orchestration SaaS for IDP & payment workflows, built observability with OpenTelemetry |
 | **Herbalife Lifestyle Program**  | Quarkus, Java, MongoDB, Docker, Apigee               | Health tracking platform with API management & secure deployments    |
 | **BasicMining Platform**         | Node.js, Express, MongoDB, Docker                    | E-commerce marketplace for crypto mining rigs, with fiat/crypto payments |
 | **Blast XR Golf & Baseball**     | Unity3D, C#, VR/MR/AR, IoT Sensors                    | Immersive simulations for Meta Quest with real-time shot analytics   |
