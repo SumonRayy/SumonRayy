@@ -17,7 +17,7 @@
     </defs>
     <text x="50%" y="35" dominant-baseline="middle" text-anchor="middle" font-family="'Chakra Petch', monospace" font-size="28" fill="url(#grad1)">
       <tspan x="50%" dy="0">Nomoskar 🙏🏼 I'm Sumon Roy</tspan>
-      <tspan x="50%" dy="32">& I am Architecting</tspan>
+      <tspan x="50%" dy="32">& I am Learning</tspan>
     </text>
   </svg>
   <br />
