@@ -16,12 +16,12 @@
       </linearGradient>
     </defs>
     <text x="50%" y="35" dominant-baseline="middle" text-anchor="middle" font-family="'Chakra Petch', monospace" font-size="28" fill="url(#grad1)">
-      <tspan x="50%" dy="0">Nomoskar 🙏🏼 I'm Sumon Roy</tspan>
-      <tspan x="50%" dy="32">& I am Learning</tspan>
+      <tspan x="50%" dy="0">Nomoskar 🙏🏼 My name is Sumon Roy also known as SumonRayy </tspan>
+      <tspan x="50%" dy="32">& I'm...</tspan>
     </text>
   </svg>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Scalable+Distributed+Systems;Microservices+%26+Kubernetes;AI+%26+ML+%26+Engineering;XR+Experiences;Cloud+Native+Architectures;Game+Dev" alt="Typing animation of rotating taglines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Designing+and+optimizing+highly+scalable+distributed+systems+for+real-world+workloads;Building+resilient+microservices+on+Kubernetes+for+seamless+deployments;Engineering+AI+%26+ML+solutions+to+automate+complex+tasks+and+derive+actionable+insights;Crafting+immersive+XR+experiences+that+seamlessly+blend+virtual+and+physical+realities;Architecting+cloud-native+platforms+for+elasticity%2C+security%2C+and+high+availability;Developing+interactive+game+mechanics+and+simulations+with+Unity+and+C%23" alt="Typing animation of rotating detailed taglines" />
 </div>
 
 ---
