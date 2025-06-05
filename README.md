@@ -32,7 +32,6 @@ Results-driven Software Engineer & Full-Stack Developer skilled in Go, Java, Jav
 ---
 
 ### 🚀 Quick Facts
-- ☕ Solved my first critical bug at 2 AM over ginger tea.
 - 🌱 Currently exploring Agentic AI, Blender Python automation, and OpenTelemetry.
 - 💡 Passionate about designing fault-tolerant architectures and solving complex problems.
 
